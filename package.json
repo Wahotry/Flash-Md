@@ -1,7 +1,7 @@
 {
-  "name": "FLASH-MD",
+  "name": "MR-WAHAB",
   "version": "2.0.0",
-  "description": "",
+  "description": "THIS BOT IS TOTALLY FREE CREATED BY MR WAHAB",
   "main": "flash.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -17,7 +17,7 @@
     "whatsapp-bot",
     "franceking1"
   ],
-  "author": "France King",
+  "author": "WAHAB King",
   "license": "ISC",
   "dependencies": {
     "@adiwajshing/keyed-db": "^0.2.4",
