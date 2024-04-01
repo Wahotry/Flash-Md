@@ -1,8 +1,8 @@
 {
-  "name":"FLASH-MD",
-  "description":"An easy and simple WhatsApp bot developed by France King",
+  "name":"MR-WAHAB",
+  "description":"An easy and simple WhatsApp bot developed by WAHAB King",
   "keywords":["bot","node","baileys","whatsapp"],
-  "logo":"https://telegra.ph/file/dfccbf12397757c321ac4.jpg",
+  "logo":"https://telegra.ph/file/7a69875df6cbb581b38a1.jpg",
   "repository":"https://github.com/franceking1/Flash-Md",
   "succes_url":"/",
   "stack":"container",
@@ -11,7 +11,7 @@
     {
       "description":"choose your prefix of bot",
       "value":".",
-      "required":true
+      "required": false
     },
     "AUTO_READ_STATUS":
     {
@@ -29,20 +29,20 @@
      {
       "description":"Other user can't use your bot in pm (type yes to active or no to deactive ; don't write in capital letter)",
       "value":"no",
-      "required":false
+      "required":true 
     }
     ,
     "BOT_NAME" : {
        
       "description":"put A name for your bot",
-      "value":"FLASH-MD",
+      "value":"MR-WAHAB",
       "required":false
 
     } ,
      "BOT_MENU_LINKS" : {
     
       "description":"add one or many link for your bot menu  ; eg : url1,url2,url3.....",
-      "value":"https://telegra.ph/file/dfccbf12397757c321ac4.jpg",
+      "value":"https://telegra.ph/file/7a69875df6cbb581b38a1.jpg",
       "required":false
        
      },
@@ -74,14 +74,14 @@
     
     "desc": "Your Name",
     "required": false,
-    "value": "France King"
+    "value": "MR WAHAB 💔 King"
   },
     "OWNER_NUMBER":
   {
     
     "desc": "Your number , dont put '+' and put you area code(exemple of togo '228')",
     "required":false,
-    "value": "254757835036"
+    "value": "923427630911"
   },
     "WARN_COUNT":
   {
